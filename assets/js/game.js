@@ -2,3 +2,5 @@
 function fight() {
     window.alert("The fight has begun!");
 }
+// call fight function
+fight();

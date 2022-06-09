@@ -1,5 +1,7 @@
 // asks for name input
-window.prompt("What is your robot's name?");
+var playerName = window.prompt("What is your robot's name?");
+// debug
+console.log(playerName);
 
 // this creates a function names "fight"
 function fight() {
